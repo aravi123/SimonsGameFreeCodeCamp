@@ -6,6 +6,7 @@ body{
 	margin: 0 auto;
 	height: 70%;
 	padding: 0;
+	display: none;
 }
 .first{
 	height: 150px;
@@ -28,6 +29,9 @@ body{
 	margin-top: 40px;
 }
 .start{
+	margin-top: 30px;
+}
+.strict{
 	margin-top: 30px;
 }
 div{
